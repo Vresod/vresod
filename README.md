@@ -5,10 +5,26 @@ I'm a newbie programmer, looking to become a professional with a career in IT. Y
 
 Contact me at binkofskyluke@proton.me or on LinkedIn at https://www.linkedin.com/in/luke-binkofsky/
 
-[![Vresod's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vresod&show_icons=true&theme=monokai#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+<picture>
+	<source
+		srcset="https://github-readme-stats.vercel.app/api?username=Vresod&show_icons=true&theme=monokai"
+		media="(prefers-color-scheme: dark)"
+ 	/>
+	<source
+		srcset="https://github-readme-stats.vercel.app/api?username=Vresod&show_icons=true&theme=solarized-light"
+		media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+	/>
+	<img src="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+</picture>
 
-[![Vresod's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vresod&show_icons=true&theme=solarized-light#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vresod&show_icons=true&theme=monokai#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vresod&show_icons=true&theme=solarized-light#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+<picture>
+	<source
+		srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Vresod&show_icons=true&layout=compact&theme=monokai"
+		media="(prefers-color-scheme: dark)"
+ 	/>
+	<source
+		srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Vresod&show_icons=true&layout=compact&theme=solarized-light"
+		media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+	/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vresod&show_icons=true&layout=compact&theme=solarized-light" />
+</picture>
