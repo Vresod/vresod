@@ -17,6 +17,7 @@ Contact me at binkofskyluke@proton.me or on LinkedIn at https://www.linkedin.com
 	<img src="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
 </picture>
 
+<br>
 
 <picture>
 	<source
