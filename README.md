@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Luke <sub>aka *Vresod*</sub></h1>
+<h1 align="center">Hey, I'm Luke <sub>aka <i>Vresod</i></sub></h1>
 
 I'm a newbie programmer, looking to become a professional with a career in IT. You can find more on my website https://vresod.xyz<sub>WIP</sub> or just by browsing my profile. Thanks for checking it out, by the way!
 
