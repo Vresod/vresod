@@ -2,7 +2,7 @@
 
 I'm a newbie programmer, looking to become a professional with a career in IT. You can find more on my website https://vresod.xyz<sub>WIP</sub> or just by browsing my profile. Thanks for checking it out, by the way!
 
-Contact me at binkofskyluke@proton.me or on LinkedIn at https://www.linkedin.com/in/luke-binkofsky/
+Contact me via [the form on my website](https://vresod.xyz/contact.html) or on LinkedIn at https://www.linkedin.com/in/luke-binkofsky/
 <p align="center">
 <picture>
 	<source
